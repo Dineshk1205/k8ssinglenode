@@ -1,6 +1,5 @@
 # k8ssinglenode
-K8sSingle Node Deploy Using CRIO Runtime Engine
-
+K8sSingle Node Deploy Using CRIO Runtime Engine.
 
 Supported OS Redhat/CentOS
 
